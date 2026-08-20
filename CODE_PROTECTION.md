@@ -25,7 +25,7 @@ This repository contains code, documentation, and other materials associated wit
 To request a license to use the code or permission to use the UAPfivenews mark, contact the repository owner:
 
 - GitHub: https://github.com/Regjkre
-- Email: rennedyboniface@gmail.com, rennedyrazafimamonjy35@gmail.com
+- Contact: Please open an issue or message the owner on GitHub (https://github.com/Regjkre). The owner will provide contact details privately upon request.
 - Social media license (automatic, non-commercial): see SOCIAL_MEDIA_LICENSE.md in the repository: https://github.com/Regjkre/Classified-archives-disk-/blob/main/SOCIAL_MEDIA_LICENSE.md
 
 Include in your request: what you want to use, how you will use it, whether the use is commercial, and whether the use involves publishing on social media platforms (TikTok/YouTube/Instagram/etc.).
@@ -52,25 +52,25 @@ Ce dépôt contient du code, de la documentation et d'autres éléments liés au
 
 ## Usages autorisés (Français)
 - Vous pouvez consulter et forker ce dépôt uniquement pour une évaluation personnelle.
-- Vous NE POUVEZ PAS copier, modifier, distribuer, octroyer une sous-licence, publier ou exploiter commercialement le code ou les actifs de ce dépôt, sauf si vous avez obtenu une licence écrite[...]
+- Vous NE POUVEZ PAS copier, modifier, distribuer, octroyer une sous-licence, publier ou exploiter commercialement le code ou les actifs de ce dépôt, sauf si vous avez obtenu une licence écrite.
 
 ## Usages interdits (y compris plateformes sociales) (Français)
-- Vous NE POUVEZ PAS reproduire, publier, partager, afficher ou diffuser du code, des captures d'écran, des extraits substantiels ou d'autres éléments propriétaires de ce dépôt sur des plate[...]
+- Vous NE POUVEZ PAS reproduire, publier, partager, afficher ou diffuser du code, des captures d'écran, des extraits substantiels ou d'autres éléments propriétaires de ce dépôt sur des plateform[...]
 - Vous NE POUVEZ PAS incorporer le code ou d'autres actifs de ce dépôt dans un produit, service, vidéo, diffusion en direct ou contenu publié sur les réseaux sociaux (y compris tutoriels, démons[...] 
 
 ## Marque (UAPfivenews) (Français)
 - Le nom, le logo et les autres éléments d'identification de la marque UAPfivenews sont la propriété du propriétaire du projet.
-- Vous ne pouvez pas utiliser la marque UAPfivenews dans des noms de produits, noms de projets, noms de domaine, identifiants/hashtags de réseaux sociaux, logos ou publicités sans autorisation écri... 
+- Vous ne pouvez pas utiliser la marque UAPfivenews dans des noms de produits, noms de projets, noms de domaine, identifiants/hashtags de réseaux sociaux, logos ou publicités sans autorisation écrite.
 - Marque déposée : France, numéro d'enregistrement FR-12345.
 
 ## Demandes de licence ou d'autorisation de marque (Français)
 Pour demander une licence d'utilisation du code ou une autorisation d'utilisation de la marque UAPfivenews, contactez le propriétaire du dépôt :
 
 - GitHub : https://github.com/Regjkre
-- Email : rennedyboniface@gmail.com, rennedyrazafimamonjy35@gmail.com
+- Contact : Ouvrez une issue ou envoyez un message au propriétaire sur GitHub (https://github.com/Regjkre). Le propriétaire fournira les coordonnées privées sur demande.
 - Licence pour réseaux sociaux (automatique, non-commerciale) : voir SOCIAL_MEDIA_LICENSE.md dans le dépôt : https://github.com/Regjkre/Classified-archives-disk-/blob/main/SOCIAL_MEDIA_LICENSE.md
 
-Indiquez dans votre demande : ce que vous souhaitez utiliser, comment vous l'utiliserez, si l'utilisation est commerciale, et si l'utilisation implique une publication sur des plateformes de rése[...]
+Indiquez dans votre demande : ce que vous souhaitez utiliser, comment vous l'utiliserez, si l'utilisation est commerciale, et si l'utilisation implique une publication sur des plateformes de réseaux sociaux.
 
 ## Contribution et code tiers (Français)
 - En contribuant du code, de la documentation ou d'autres éléments à ce dépôt, vous confirmez que vous avez le droit de soumettre ce travail et vous accordez au propriétaire l'autorisation d[...]
@@ -82,4 +82,4 @@ Indiquez dans votre demande : ce que vous souhaitez utiliser, comment vous l'uti
 
 ---
 
-For updates or to provide a registered trademark number/jurisdiction, tell me what to insert and I will update this document.
+For updates or to provide contact details (email) or a registered trademark number/jurisdiction, tell me what to insert and I will update this document.
