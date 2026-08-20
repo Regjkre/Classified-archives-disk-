@@ -22,7 +22,7 @@ FRANÇAIS — Autorisation automatique pour réseaux sociaux (UAPfivenews)
 - Tous les droits d’auteur et droits sur la marque « UAPfivenews » restent la propriété du titulaire.
 
 5. Contact
-- Pour toute demande commerciale, autorisation étendue, ou pour contester une révocation : contact@example.com
+- Pour toute demande commerciale, autorisation étendue, ou pour contester une révocation : rennedyboniface@gmail.com, rennedyrazafimamonjy35@gmail.com
 
 ---
 
@@ -44,7 +44,7 @@ ENGLISH — Automatic social media permission (UAPfivenews)
 - Copyright and trademark rights in “UAPfivenews” remain with the owner.
 
 5. Contact
-- For commercial licensing, extended permissions, or to contest a revocation: contact@example.com
+- For commercial licensing, extended permissions, or to contest a revocation: rennedyboniface@gmail.com, rennedyrazafimamonjy35@gmail.com
 
 ---
 
